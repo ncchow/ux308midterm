@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: NCT 127 and their 'Superhuman' side
+title: NCT 127 and their 'Superhuman' effect
 lang: en
 date: '2020-03-05T21:40:35-05:00'
 thumbnail: /images/uploads/superhuman.jpeg
