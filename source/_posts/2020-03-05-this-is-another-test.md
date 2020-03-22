@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'NCT DREAM and HRVY, a much needed collaboration'
+title: 'NCT DREAM and HRVY, a youthful and lovely collaboration'
 lang: en
 date: '2020-03-05T21:29:38-05:00'
 thumbnail: /images/uploads/dnyl.jpg
