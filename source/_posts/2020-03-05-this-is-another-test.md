@@ -3,7 +3,7 @@ layout: blog
 title: 'NCT DREAM and HRVY, a youthful and lovely collaboration'
 lang: en
 date: '2020-03-05T21:29:38-05:00'
-thumbnail: /images/uploads/dnyl.jpg
+thumbnail: /images/uploads/dnyl.png
 terms: 'nct dream, hrvy'
 ---
 NCT DREAM has come back with a single, _Don't Need Your Love_, for their entertainment company's weekly music release system called _SM Station_. With this single, NCT DREAM has teamed up with HRVY, a solist from United Kingdom. _Don't Need Your Love_ by NCT DREAM and HRVY has touched the hearts of many viewers with their quirky song message and easy melody line. Even with language barriers, NCT DREAM and HRVY have combined the perfect transitions between Korean and English seamlessly.  
